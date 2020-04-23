@@ -1,4 +1,4 @@
-package ws.mirage.code.grs.emai;
+package ws.mirage.code.grs.email;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ws.mirage.code.grs.emai;
+package ws.mirage.code.grs.email;
 
 import java.io.IOException;
 import java.io.InputStream;

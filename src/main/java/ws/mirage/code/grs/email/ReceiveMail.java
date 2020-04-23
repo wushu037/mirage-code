@@ -1,8 +1,4 @@
-package ws.mirage.code.grs.emai;
-
-import javax.mail.*;
-import javax.mail.search.FlagTerm;
-import java.util.Properties;
+package ws.mirage.code.grs.email;
 
 /**
  * @author Mirage

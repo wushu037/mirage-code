@@ -1,4 +1,4 @@
-package ws.mirage.code.grs.emai;
+package ws.mirage.code.grs.email;
 
 import com.sun.xml.internal.messaging.saaj.packaging.mime.MessagingException;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
